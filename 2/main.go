@@ -1,3 +1,4 @@
+/*
 package main
 
 import "fmt"
@@ -17,3 +18,4 @@ func FiboEvenNumbers(n int) int {
 func main() {
 	fmt.Println(FiboEvenNumbers(10))
 }
+*/
